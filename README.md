@@ -1,2 +1,5 @@
 # Test_I2C
 test i2c for S32K
+LUL
+HARD GIT
+DATDT14-10/11/2017
